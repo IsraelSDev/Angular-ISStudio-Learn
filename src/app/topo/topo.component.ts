@@ -7,5 +7,5 @@ import { Component } from "@angular/core";
 })
 
 export class TopoComponent {
-    public name: string = 'Israel'
+    public name: string = ' { $User } '
 }
