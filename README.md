@@ -1,4 +1,6 @@
-# MyAngularApp
+# ISStudio Learning v1.0
+
+## Test on: https://angular-iss-tudio-learn.vercel.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
