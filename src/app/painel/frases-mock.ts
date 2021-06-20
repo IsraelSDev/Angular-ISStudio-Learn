@@ -21,10 +21,6 @@ const FRASES: Frase[] = [
         fraseEng: 'What is your name?',
         frasePtBr: 'Qual é o seu nome?'
     },
-    {
-        fraseEng: '',
-        frasePtBr: ''
-    },
 
 ]
 export default FRASES;
