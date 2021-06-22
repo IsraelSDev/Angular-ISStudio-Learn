@@ -5,6 +5,7 @@ import { Component, OnInit, Input } from '@angular/core';
   templateUrl: './progress.component.html',
   styleUrls: ['./progress.component.sass']
 })
+
 export class ProgressComponent implements OnInit {
 
   @Input() public currentProgress: number = 0
